@@ -1,3 +1,3 @@
 # Nuxt
 ## Prerequisite
-### Vue
+- [x] Vue
