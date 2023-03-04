@@ -6,5 +6,5 @@
 ### Notes
 ```
 $fetch
-route policy: ssr, static, swr
+routeRules policy: ssr, static, swr
 ```
